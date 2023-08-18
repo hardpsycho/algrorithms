@@ -1,0 +1,23 @@
+{
+  "name": "algrorithms",
+  "version": "1.0.0",
+  "description": "## Сортировки:",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hardpsycho/algrorithms.git"
+  },
+  "author": "The Hapsy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hardpsycho/algrorithms/issues"
+  },
+  "homepage": "https://github.com/hardpsycho/algrorithms#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6"
+  }
+}
