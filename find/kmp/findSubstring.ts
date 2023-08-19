@@ -1,6 +1,6 @@
 export function findSubstr(string: string, substring: string): number {
     const lengthSub = substring.length
-    // добавляем искомую подстроку в начало строки и добавляем разделитель,
+    // добавляем искомую подстроку в начало строки в качестве префикса и добавляем разделитель,
     // который точно не встретится в строке. В нашем случае разделитель #
     const fullString = substring + '#' + string
     const length = fullString.length
@@ -17,7 +17,7 @@ export function findSubstr(string: string, substring: string): number {
             j++
         }
         if (j === lengthSub) {
-            // как только j сопадет с длинной искомой подстроки, то значит наша подстока найдена
+            // как только j сопадет с длинной искомой подстроки, то значит наша подстрока найдена
             // возвращаем индекс начала этой подстроки
             return i - lengthSub * 2
         }
@@ -30,4 +30,4 @@ export function findSubstr(string: string, substring: string): number {
 const testString = 'aaabbbxyzabc'
 const testSubstring = 'xyz'
 
-console.log(findSubstr(testString, testSubstring))
+console.log(findSubstr(testString, testSubstring))  // 6
