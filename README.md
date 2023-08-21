@@ -11,3 +11,4 @@
 ## Поиск:
 - [Алгоритм Кнута-Морриса-Пратта](https://github.com/hardpsycho/algrorithms/tree/master/find/kmp)
 - [Бинарный поиск](https://github.com/hardpsycho/algrorithms/blob/master/find/binarySearch)
+- [k-й элемент порядковой статитсики](https://github.com/hardpsycho/algrorithms/blob/master/find/nthElement)

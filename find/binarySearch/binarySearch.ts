@@ -8,7 +8,7 @@
  * @returns {number}  индекс элемента который ищем или -1, если не найдено
  */
 
-function binarySearch(array: number[], query: number): number {
+export function binarySearch(array: number[], query: number): number {
     let left = 0
     let right = array.length-1
 
