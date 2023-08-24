@@ -6,7 +6,7 @@
 - Пузырьком
 - Вставками
 - [Быстрая сортировка. Она же алгоритм Хоара](https://github.com/hardpsycho/algrorithms/blob/master/sort/quickSort.js)
-- [Сортировка слиянием](https://github.com/hardpsycho/algrorithms/blob/master/sort/mergeSort.ts)
+- [Сортировка слиянием](https://github.com/hardpsycho/algrorithms/blob/master/sort/mergeSort)
 - [Сортировка пирамидальная](https://github.com/hardpsycho/algrorithms/blob/master/sort/heapSort)
 - [Подсчетом](https://github.com/hardpsycho/algrorithms/blob/master/sort/countingSort)
 
