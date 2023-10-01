@@ -19,3 +19,7 @@
 ## Графы
 - Поиск в ширину (bfs)
 - Алгоритм Дейкстры
+
+## Декораторы
+- [Дебаунc](https://github.com/hardpsycho/algrorithms/blob/master/decorators/debounce) 
+- Троттлинг
